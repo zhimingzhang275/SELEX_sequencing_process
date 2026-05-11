@@ -1,0 +1,21 @@
+2026-05-11 10:15:10 [INFO] 程序启动，项目目录：/home/ubuntu/data/sequencing_process/dist
+2026-05-11 10:15:10 [INFO] CPU 核心数：22
+2026-05-11 10:15:10 [INFO] 正在解析文库模板...
+2026-05-11 10:15:10 [INFO] 模板解析成功：CGACTCAGTNNNNNNNNCGATCG
+2026-05-11 10:15:10 [INFO] 生成正则：CGACTCAGT([ATCG]{8})CGATCG（共 1 个随机区）
+2026-05-11 10:15:10 [INFO] 正在扫描数据目录：/home/ubuntu/data/sequencing_process/dist/data
+2026-05-11 10:15:10 [ERROR] 数据目录不存在：/home/ubuntu/data/sequencing_process/dist/data
+2026-05-11 10:16:19 [INFO] 程序启动，项目目录：/home/ubuntu/data/sequencing_process/dist
+2026-05-11 10:16:19 [INFO] CPU 核心数：22
+2026-05-11 10:16:50 [INFO] 程序启动，项目目录：/home/ubuntu/data/sequencing_process/dist
+2026-05-11 10:16:50 [INFO] CPU 核心数：22
+2026-05-11 10:16:51 [INFO] 正在解析文库模板...
+2026-05-11 10:16:51 [ERROR] 模板存在非法字符：:、B、I、L
+仅允许 A/T/C/G/N（或 U，自动转为 T）
+2026-05-11 10:17:03 [INFO] 程序启动，项目目录：/home/ubuntu/data/sequencing_process/dist
+2026-05-11 10:17:03 [INFO] CPU 核心数：22
+2026-05-11 10:17:04 [INFO] 正在解析文库模板...
+2026-05-11 10:17:04 [INFO] 模板解析成功：TTCAGCACTCCACGATCTAACNNNNNNNNNGCCGNNNNNNNNNNNNCGGTTAGATCGTGCTACCGTGAA
+2026-05-11 10:17:04 [INFO] 生成正则：TTCAGCACTCCACGATCTAAC([ATCG]{9})GCCG([ATCG]{12})CGGTTAGATCGTGCTACCGTGAA（共 2 个随机区）
+2026-05-11 10:17:04 [INFO] 正在扫描数据目录：/home/ubuntu/data/sequencing_process/dist/data
+2026-05-11 10:17:04 [ERROR] 数据目录不存在：/home/ubuntu/data/sequencing_process/dist/data

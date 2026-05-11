@@ -1,0 +1,4 @@
+2026-05-11 10:15:10 [ERROR] 数据目录不存在：/home/ubuntu/data/sequencing_process/dist/data
+2026-05-11 10:16:51 [ERROR] 模板存在非法字符：:、B、I、L
+仅允许 A/T/C/G/N（或 U，自动转为 T）
+2026-05-11 10:17:04 [ERROR] 数据目录不存在：/home/ubuntu/data/sequencing_process/dist/data
